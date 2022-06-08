@@ -1,0 +1,30 @@
+html{
+    background-color: rgb(56, 55, 55);
+}
+
+.container{
+    border-radius: 1.5em;
+    text-align: center;
+    width: 30%;
+    height: 40%;
+    background-color: #4a7da5;
+    margin: auto;
+    
+}
+
+button{
+    background: #069;
+    border-radius: 0.5em;
+    color: white;
+    font-size: 32px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 640px;
+}
+
+#sound{
+    display: none;
+}
